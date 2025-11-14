@@ -72,8 +72,6 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuchu
 
 ## 📫 Contact Me
 
--   ✉️ Email: *(add your email)*\
--   💼 LinkedIn: *(optional)*\
--   🌐 Portfolio: *(optional)*
+-   ✉️ Email: *phuchuy.dang@globalservs.com*
 
 Always open to new opportunities & collaborations!
