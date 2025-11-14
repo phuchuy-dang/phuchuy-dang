@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Huy --- PHP Developer (2+ Years)
 
-I'm a passionate **PHP Developer** with over **3 years of experience**
+I'm a passionate **PHP Developer** with over **2 years of experience**
 building clean, scalable, and high-performance web applications.\
 My main focus is **Symfony**, **Laravel**, **Doctrine**, and modern
 **PHP 8+** backend development.
